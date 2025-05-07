@@ -22,6 +22,12 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 Write the steps you followed here.  This way you can keep track of where you might have messed up if the project does not work.
 1. I have download Arduino IDE 2.3.6 for windows 10 or newer.
 2. I've downloaded [CH341SER.ZIP](https://www.wch.cn/downloads/CH341SER.ZIP.html?type=en) because we need those drivers in order to work on the cam.
+3. Also I download "CH340 Windows Driver: Attached as CH34x_install_windows_v3_4" and I have extract both files and click install on the setup and it was successfull.
+4. I went to Arudino and copy this link (https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json) and put it throught preferences.
+5. Then I downloaded esp32 by Esspressif in boards manager in Arudino.
+6. On the Arduino I connect to the cam with the board AI Thinker esp32-cam with the port com 5 serial port (usb)
+7. I went to file than example and went to basic blink where I was playing with the camera to check how to make it blink quicker or slower.
+8. 
 
 ## Problems
 Note your problems or errors here.  Google any error you may come across, and not what you tried (even if it does not work), and what was the final answer. Document your errors and solutions that worked for you.  
