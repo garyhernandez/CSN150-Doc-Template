@@ -21,7 +21,7 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 ## Steps I followed
 Write the steps you followed here.  This way you can keep track of where you might have messed up if the project does not work.
 1. I have download Arduino IDE 2.3.6 for windows 10 or newer.
-2. I've downloaded [CH341SER.ZIP](https://www.wch.cn/downloads/CH341SER.ZIP.html?type=en) because we need those drivers in order to worm on the cam.
+2. I've downloaded [CH341SER.ZIP](https://www.wch.cn/downloads/CH341SER.ZIP.html?type=en) because we need those drivers in order to work on the cam.
 
 ## Problems
 Note your problems or errors here.  Google any error you may come across, and not what you tried (even if it does not work), and what was the final answer. Document your errors and solutions that worked for you.  
