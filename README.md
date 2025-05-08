@@ -28,12 +28,13 @@ Write the steps you followed here.  This way you can keep track of where you mig
 3. Also I download "CH340 Windows Driver: Attached as CH34x_install_windows_v3_4" and I have extract both files and click install on the setup and it was successfull.
 4. I went to Arudino and copy this link (https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json) and put it throught preferences.
 5. Then I downloaded esp32 by Esspressif in boards manager in Arudino.
-6. On the Arduino I connect to the cam with the board AI Thinker esp32-cam with the port com 5 serial port (usb).
-7. I went to file than example and went to basic blink where I was playing with the camera to check how to make it blink quicker or slower.
-8. To get the camera working I went to Arduino - files - examples - esp32 - camera and click on CameraWebServer.
-9. I uncommon line 25 which was this "#define CAMERA_MODEL_AI_THINKER // Has PSRAM".
-10. I put in my wifi name and password in line 39 and 40.
-11. 
+6. On the Arduino, I connected to the cam with the board AI Thinker esp32-cam and with the port com 5 serial port (usb).
+7. I went to file than example and went to basic blink where I click on upload and was playing with the flashlight blinking
+8. I then check how to make it blink quicker or slower and to do that you have to increase the delay to make it slower and decrease to make the flashlight flash quicker.
+9. To get the camera working I went to Arduino - files - examples - esp32 - camera and click on CameraWebServer.
+10. I uncommon line 25 which was this "#define CAMERA_MODEL_AI_THINKER // Has PSRAM".
+11. I put in my wifi name and password in line 39 and 40.
+12. Then I click upload, I copy the ip address that was in the Serial Monitor I paste it in the brower and I was able to see myself through the cam.
 
 ## Problems
 Note your problems or errors here.  Google any error you may come across, and not what you tried (even if it does not work), and what was the final answer. Document your errors and solutions that worked for you.  
