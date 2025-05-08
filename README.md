@@ -15,7 +15,10 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 
 ##### Video 1: 
 
-##### Other Links: [Arudino link I used to download it](https://www.arduino.cc/en/software/)
+##### Other Links: 
+1. [Arudino link I used to download](https://www.arduino.cc/en/software/)
+2. [Installing ESP32 Board in the Arduino IDE](https://lastminuteengineers.com/esp32-arduino-ide-tutorial/)
+3. [Getting Started With ESP32-CAM](https://lastminuteengineers.com/getting-started-with-esp32-cam/)
 
 
 ## Steps I followed
